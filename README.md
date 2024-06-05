@@ -1,11 +1,11 @@
 # Brain Tumor Classification Using Bag of Features
 This repository contains code and resources for classifying brain tumors using a Bag of Features (BoF) approach. This repo is serves as production code for the paper "Brain tumour classification using BoF-SURF with filter-based feature selection methods" which is published on "Multimedia Tools and Applications."
 
-If you use any resources in this repository, please cite the following paper:
-* [1] Mohammed ZF, Mussa DJ. Brain tumour classification using BoF-SURF with filter-based feature selection methods. Multimed Tools Appl. (2024). doi:  10.1007/s11042-024-18171-6. https://link.springer.com/article/10.1007/s11042-024-18171-6
+If you use any resources except the dataset in this repository, please cite the following paper:
+* [1] Mohammed ZF, Mussa DJ. [Brain tumour classification using BoF-SURF with filter-based feature selection methods](https://link.springer.com/article/10.1007/s11042-024-18171-6). Multimed Tools Appl. (2024). doi:  10.1007/s11042-024-18171-6.
 
 ## Dataset
-The dataset is structured into three directories within the Dataset folder:
+The dataset utilized in this repo taken from [Brain Tumor Detection Dataset (CE-MRI)](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427) is structured into three directories within the Dataset folder:
 
 Dataset/1: Meningioma (708 slices)
 Dataset/2: Glioma (1426 slices)
